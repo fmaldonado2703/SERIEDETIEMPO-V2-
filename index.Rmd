@@ -1,7 +1,7 @@
 --- 
 title: "A Minimal Book Example"
 author: "Yihui Xie"
-date: "`r Sys.Date()`"
+date: "`fabian-`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
